@@ -1,0 +1,6 @@
+C:\Users\S01118234\Desktop\Section5\Section5\bin\Debug\Section5.exe.config
+C:\Users\S01118234\Desktop\Section5\Section5\bin\Debug\Section5.exe
+C:\Users\S01118234\Desktop\Section5\Section5\bin\Debug\Section5.pdb
+C:\Users\S01118234\Desktop\Section5\Section5\obj\Debug\Section5.csprojResolveAssemblyReference.cache
+C:\Users\S01118234\Desktop\Section5\Section5\obj\Debug\Section5.exe
+C:\Users\S01118234\Desktop\Section5\Section5\obj\Debug\Section5.pdb

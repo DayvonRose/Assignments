@@ -1,0 +1,2 @@
+C:\Users\S01118234\Desktop\FinalExam2\FinalExam2\bin\Debug\FinalExam2.exe.config
+C:\Users\S01118234\Desktop\FinalExam2\FinalExam2\obj\Debug\FinalExam2.csprojResolveAssemblyReference.cache
